@@ -30,8 +30,11 @@
      java Main
      ```
 
-6. **Play the Game:**
-   - Follow the on-screen instructions to play the number and letter guessing game.
+6. **How to Play:**
+
+- For the Number Guessing Game, players can choose between two options: guessing a number between 1 and 10 or between 10 and 100.
+- For the Letter Guessing Game, players have two options with 3 or 5 attempts to guess the correct letter.
+- Points earned in each game mode are displayed separately and are also aggregated. Users can access this scoreboard from the menu.
 
 Note: Adjust the commands based on the file names and structure in your project.
 
