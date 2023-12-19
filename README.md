@@ -9,7 +9,7 @@
 2. **Download or Clone the Project:**
    - Download or clone the project files to your computer:
      ```bash
-     git clone https://github.com/your-username/number-letter-guessing-game.git
+     git clone https://github.com/gitomerbaran/guessing-game-java.git
      ```
 
 3. **Navigate to the Project Directory:**
