@@ -32,9 +32,19 @@
 
 6. **How to Play:**
 
-- For the Number Guessing Game, players can choose between two options: guessing a number between 1 and 10 or between 10 and 100.
-- For the Letter Guessing Game, players have two options with 3 or 5 attempts to guess the correct letter.
+
+- **Number Guessing Game:**
+  - Players can choose between two options:
+    - Guessing a number between 1 and 10 with 2 attempts.
+    - Guessing a number between 1 and 100 with 5 attempts.
+
+- **Letter Guessing Game:**
+  - Players have two options:
+    - Guessing the correct letter with 3 attempts.
+    - Guessing the correct letter with 5 attempts.
+
 - Points earned in each game mode are displayed separately and are also aggregated. Users can access this scoreboard from the menu.
+
 
 Note: Adjust the commands based on the file names and structure in your project.
 
