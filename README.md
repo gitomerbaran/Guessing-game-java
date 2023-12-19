@@ -1,5 +1,5 @@
 # Number and Letter Guessing Game
-## Getting Started
+
 
 ## Getting Started
 
