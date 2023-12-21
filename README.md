@@ -15,7 +15,7 @@
 3. **Navigate to the Project Directory:**
    - Open your terminal or command prompt and go to the project directory:
      ```bash
-     cd number-letter-guessing-game
+     cd Guessing-game-java
      ```
 
 4. **Compile the Java Program:**
